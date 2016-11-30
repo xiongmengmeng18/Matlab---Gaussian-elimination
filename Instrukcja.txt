@@ -1,0 +1,7 @@
+1. Wrzuc wszystkie 4 funkcje do folderu gdzie matlab ma swoje funkcje
+2. Odpal program z konsoli w np ten sposób: Gaussian_Elimination([0 8 10 ; 15 4 -10;3 6 7],[1 2 3]) , gdzie pierwsza czesc to macierz , a druga wektor wyników.
+3. Funkcja solvegauss wylicza pierwiastki z macierzy z 1 na przekatnej i 0 pod ni¹
+4. Gauss_czesciowywybor to funkcja do podpunktu b)
+5. Gauss_pelnywywybor jest do podpunktu c)
+6. Wywoluja sie one w 11/12 linijce funkcji podstawowej czyli Gaussian_Elimination.
+7. Caly program (wszystkie funkcje razem) wyliczaj¹ rozwiazania danego ukladu rownan i przypisuja do wektora x (ktory sie wyswietla).
